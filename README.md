@@ -12,7 +12,7 @@
 ## Feature Tasks  
 * Deploy the application built for either labs 18 or 19, using Github/Heroku/Travis CI using the process illustrated in class.
   * Use [mlab](https://elements.heroku.com/addons/mongolab) to add a MongoDB database to Heroku.
-* Link your deployed apllication to AWS using Heroku's environment variables.
+* Link your deployed apllication to AWS using Heroku's environment variables (if using lab 19).
 
 
 ## Documentation
